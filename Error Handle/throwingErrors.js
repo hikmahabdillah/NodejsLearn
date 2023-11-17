@@ -86,3 +86,4 @@ try {
     console.log(error.stack);
   }
 } */
+// Dengan operator instanceOf, kita bisa mendapatkan tipe dari eror yang terjadi. Dari sana kita bisa membuat percabangan bagaimana cara menangani erornya.
