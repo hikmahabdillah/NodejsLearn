@@ -1,0 +1,19 @@
+{
+  "name": "try-npm",
+  "version": "1.0.0",
+  "description": "try-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wytheme/try-npm.git"
+  },
+  "author": "wythe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wytheme/try-npm/issues"
+  },
+  "homepage": "https://github.com/wytheme/try-npm#readme"
+}
